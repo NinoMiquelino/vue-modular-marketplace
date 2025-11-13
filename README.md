@@ -19,8 +19,6 @@
 
 Uma aplicação moderna de marketplace construída com Vue 3, featuring arquitetura modular, GraphQL e design totalmente responsivo com suporte a dark mode.
 
-![MarketPlace Modular Preview](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop)
-
 ## ✨ Características Principais
 
 ### 🏗️ Arquitetura Modular
